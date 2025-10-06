@@ -1,5 +1,4 @@
 /// Constants for the DAMM Distributor program
-use anchor_lang::prelude::*;
 
 /// Seed for the vault
 pub const VAULT_SEED: &[u8] = b"vault";

@@ -1,7 +1,6 @@
 /// Initialize policy instruction
 use anchor_lang::prelude::*;
 use crate::constants::*;
-use crate::errors::DammDistributorError;
 use crate::state::*;
 use crate::utils::validate_bps;
 
